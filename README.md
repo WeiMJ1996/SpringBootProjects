@@ -13,3 +13,6 @@ some spring boot demo for learning
 
 ### 4.springboot-mybatis-generator-configuration
 > springboot整合通用Mapper以及分页插件pagehelper。主要注意引入通用Mapper后部分mybatis的配置会失效，需要通过通用Mapper的配置来配置ORM。
+
+### 5.springboot-jpa-multiple-datasource
+> springboot整合JPA，使用多数据源，其中springboot版本为1.5；2.0以后版本需要修改配置，该源码不适用。
